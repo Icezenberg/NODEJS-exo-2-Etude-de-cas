@@ -1,61 +1,61 @@
 [
     {
         "index": 0,
-        "compétence": "Coder",
+        "competence": "Coder",
             "niveau": 5
 
     },
     {
         "index": 1,
-        "compétence": "Tester",
+        "competence": "Tester",
             "niveau": 3
 
     },
     {
         "index": 2,
-        "compétence": "Ajax",
+        "competence": "Ajax",
             "niveau": 3
 
     },
     {
         "index": 3,
-        "compétence": "Front",
-            "niveau": 8
+        "competence": "Front",
+            "niveau": 5
 
     },
     {
         "index": 4,
-        "compétence": "JS",
+        "competence": "JS",
             "niveau": 6
 
     },
     {
         "index": 5,
-        "compétence": "HTML",
-            "niveau": "7"
+        "competence": "HTML",
+            "niveau": 4
 
     },
     {
         "index": 6,
-        "compétence": "PHP",
-            "niveau": 3
+        "competence": "PHP",
+            "niveau": 2
 
     },
     {
         "index": 7,
-        "compétence": "JQuery",
+        "competence": "JQuery",
             "niveau": 4
 
     },
     {
         "index": 8,
-        "compétence": "Python",
+        "competence": "Python",
             "niveau": 1
 
     },
     {
         "index": 9,
-        "compétence": "Back",
+        "competence": "Back",
             "niveau": 1
 
     }
