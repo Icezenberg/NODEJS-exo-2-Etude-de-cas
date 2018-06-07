@@ -2,31 +2,31 @@
     {
         "index": 0,
         "compétence": "Coder",
-            "niveau": "5"
+            "niveau": 5
 
     },
     {
         "index": 1,
         "compétence": "Tester",
-            "niveau": "3"
+            "niveau": 3
 
     },
     {
         "index": 2,
         "compétence": "Ajax",
-            "niveau": "3"
+            "niveau": 3
 
     },
     {
         "index": 3,
         "compétence": "Front",
-            "niveau": "8"
+            "niveau": 8
 
     },
     {
         "index": 4,
         "compétence": "JS",
-            "niveau": "6"
+            "niveau": 6
 
     },
     {
@@ -38,25 +38,25 @@
     {
         "index": 6,
         "compétence": "PHP",
-            "niveau": "3"
+            "niveau": 3
 
     },
     {
         "index": 7,
         "compétence": "JQuery",
-            "niveau": "4"
+            "niveau": 4
 
     },
     {
         "index": 8,
         "compétence": "Python",
-            "niveau": "1"
+            "niveau": 1
 
     },
     {
         "index": 9,
         "compétence": "Back",
-            "niveau": "1"
+            "niveau": 1
 
     }
 ]

@@ -4,6 +4,9 @@ $(document).ready(function () {
         type: 'GET',
         url: 'http://127.0.0.1:3050/liste',
         success: function (datas) {
+              datas.sort(function (a, b) {
+                return a.niveau - b.niveau;
+              });
             for (var i = 0, c = datas.length; i < c; i++) {
                 console.log(datas[i].compétence)
 
@@ -15,3 +18,6 @@ $(document).ready(function () {
         }
     })
 });
+
+// etoiles pour la notation
+{/* <i class="far fa-star"></i> */}
